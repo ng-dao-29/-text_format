@@ -1,0 +1,27 @@
+p {
+   text-indent: 50px;
+    font-size: 130%;
+    font-family: Arial;
+}
+#b {
+    padding: 5px;
+    text-align: justify;
+}
+
+
+#a {
+    text-align: left;
+    line-height: 1px;
+    padding: 5px;
+}
+#dongduong {
+    color: blue;
+    text-decoration: none;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+h {
+    font-size: 1%;
+}
